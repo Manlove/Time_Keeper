@@ -1,2 +1,4 @@
 # Time_Keeper
-volunteer time keeping application.
+Volunteer time keeping application.
+
+Simple Time keeping application built in python utilizing a sql database.
